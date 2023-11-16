@@ -1,11 +1,11 @@
 # Object-oriented-Software-Development-with-Design-Patterns
 Lab assigmenets completed in the course Object-oriented Software Development with Design Patterns course code TOUK18, mostly focused on use cases, domain and design model  diagrams with UML notation. Additionally lab projects in java.
 
-## Lab 1 
+## Lab 1 Use-case diagram 
 ### Description
 This laboratory task was composed of creating use-cases of a flighting booking system. Identifying the primary actors and their goals as well as offstage and supporting actors. 
 
-## Lab 2 
+## Lab 2 Domain Model 
 ### Description
 This assingment consisted of creating a domain model. A domain model is the first sketch that foucuses on WHAT, what requirements are there what do we want to fulfill. The domain model only consist of attributes and associations and isused in the OO Analaysis. From the domain model we build upon this and creating the design model. Desing model is commonly used in the OO design phase. The design model focuses on HOW, and includes more techincal details and we use the Gang of four and GRASP pattern to guide us.
 
